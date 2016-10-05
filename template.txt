@@ -1,0 +1,2 @@
+C:\Program Files\IBM\Rational\DOORS\9.5\\bin\doors.exe
+36677@MYTSSV00034
