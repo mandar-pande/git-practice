@@ -2,7 +2,7 @@
 % Date : 12.26.2010
 % Author  : Omid Sakhi
 % http://www.facedetectioncode.com
-
+Author: Mandar Pande
 Face Detection Program for MATLAB
 using Gabor Feature Extraction and Neural Networks
 ----------------------------------------------------------------
